@@ -1,4 +1,4 @@
-# Agentic-Financial-Advisor: Multi-Modal AI Agent for Stock Analysis
+# Multi-Modal AI Agent for Stock Analysis
 
 An autonomous AI-powered financial analysis tool using **multi-modal agents, LLMs (DistilBERT, Grok), YFinance API, DuckDuckGo Search, and FastAPI**. This project integrates **Agentic AI** principles to provide **real-time stock analysis, news insights, and financial recommendations**.
 
